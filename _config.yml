@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Tosin Coker Blog
+author: Tosin Coker
+email: tosincoker26@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  This is a simple blog generated using Github pages. 
+  You can contact Tosin Coker to learn more about Github pages through the social media links attached.
+  Further information can be found on github lab.
+theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: gab_lauren # DO NOT include the @ character, or else the build will fail!
+github_username:  tosincoker26 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
